@@ -1,0 +1,5 @@
+1. WiFi (Built-in)
+2. HTTPClient (Built-in)
+3. OneWire (for DS18B20)
+4. DallasTemperature (for DS18B20)
+5. ArduinoJson (by Benoit Blanchon)
